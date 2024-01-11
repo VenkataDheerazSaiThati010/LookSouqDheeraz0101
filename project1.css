@@ -1,0 +1,8 @@
+#a{
+  display: grid;
+  grid-template-rows:auto auto auto;
+}
+#ex{
+  display: grid;
+  grid-template-rows: auto auto auto;
+}
